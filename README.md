@@ -56,11 +56,10 @@ ML project classifying iris species using logistic regression and decision trees
 - 💬 Delivered high-engagement educational reels and content on LinkedIn
 
 ---
-
 ## 📊 GitHub Stats
 
-![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/priyaky&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/priyaky&layout=compact&theme=midnight-purple)
+![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=midnight-purple)
 
 ---
 
